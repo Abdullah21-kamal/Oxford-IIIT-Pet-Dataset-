@@ -70,10 +70,10 @@ The project contains two Jupyter Notebooks that can be run interactively:
 - Precision, Recall, F1-score
 - Confusion Matrix Analysis
 ## Results
-- Model Version	vc Test Accuracy
-- MobileNetV2 (Baseline)	86.64%
-- MobileNetV2 + Fine-Tuning	87.27%
-- MobileNetV2 + Data Augmentation	89.0%
+- Model Version	vc Test Accuracy -> saved model
+- MobileNetV2 (Baseline)	86.64%  -> best_model.h5
+- MobileNetV2 + Fine-Tuning	87.27% -> fine_tuned_model.h5
+- MobileNetV2 + Data Augmentation	89.0% -> mobilenetv2_augmented_finetuned
 
 ## Fine-tuning and data augmentation significantly improved classification accuracy
 
