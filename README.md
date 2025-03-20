@@ -37,8 +37,8 @@ Oxford-IIIT-Pet-Dataset/
 ## Installation & Setup
 1. Clone the Repository
 
-git clone https://github.com/Abdullah21-kamal/Oxford-IIIT-Pet-Dataset.git
-cd Oxford-IIIT-Pet-Dataset
+- git clone https://github.com/Abdullah21-kamal/Oxford-IIIT-Pet-Dataset.git
+- cd Oxford-IIIT-Pet-Dataset
 
 2. Create a Virtual Environment (Recommended)
 python -m venv venv
