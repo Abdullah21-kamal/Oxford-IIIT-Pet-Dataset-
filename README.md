@@ -22,16 +22,16 @@ High similarity among some breeds
 
 ## Project Structure
 Oxford-IIIT-Pet-Dataset/
-│── .ipynb_checkpoints/       # Jupyter Notebook checkpoints (auto-generated)
-│── data/                     # Dataset directory
-│── models/                   # Trained model files (if applicable)
-│── notebooks/                # Jupyter Notebooks for training and evaluation
-│   ├── MobileNetV2_FineTuning.ipynb
-│   ├── AugmentedDataForMobileNetV2_FineTuning.ipynb
-│── AugmetedDataForMobileNetV2_FineTuning.pdf  # Report for Augmented Model
-│── MobileNetV2_FineTuning.pdf # Report for Fine-Tuned Model
-│── README.md                 # Project documentation
-│── requirements.txt          # Dependencies list
+- │── .ipynb_checkpoints/       # Jupyter Notebook checkpoints (auto-generated)
+- │── data/                     # Dataset directory
+- │── models/                   # Trained model files (if applicable)
+- │── notebooks/                # Jupyter Notebooks for training and evaluation
+- │   ├── MobileNetV2_FineTuning.ipynb
+- │   ├── AugmentedDataForMobileNetV2_FineTuning.ipynb
+- │── AugmetedDataForMobileNetV2_FineTuning.pdf  # Report for Augmented Model
+- │── MobileNetV2_FineTuning.pdf # Report for Fine-Tuned Model
+- │── README.md                 # Project documentation
+- │── requirements.txt          # Dependencies list
 
 
 ## Installation & Setup
